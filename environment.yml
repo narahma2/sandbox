@@ -5,7 +5,7 @@ channels:
   - ccpi
   
 dependencies:
-  - python
+  - python==3.7
   - numpy==1.21.1
   - pip
   - matplotlib==3.4.3
