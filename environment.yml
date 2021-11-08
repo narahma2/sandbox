@@ -6,7 +6,7 @@ channels:
   
 dependencies:
   - python=3.7
-  - numpy=1.21.1
+  - numpy=1.15
   - matplotlib=3.4.3
   - astra-toolbox=1.9.9
   - tomophantom
