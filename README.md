@@ -1,2 +1,2 @@
 # sandbox
-Let's have some fun
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/narahma2/sandbox/HEAD)
